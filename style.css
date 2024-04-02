@@ -114,7 +114,7 @@ body{
 
 /*-------------main-------------*/
 #main{
-    background-image: url("/img/bcg.jpg") ;
+    background-image: url("img/bcg.jpg") ;
     width: 100%;
     background-size: contain;
     background-position: top 25% right 0;
